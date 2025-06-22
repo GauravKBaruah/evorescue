@@ -1,5 +1,5 @@
 # Repository for the paper : Evolution of genetic variance and its consequences for eco-evolutionary responses in complex mutualistic networks.
-Authors: Gaurav Baruah, Meike Wittmann
+
 
 
 Biorxiv doi: https://doi.org/10.1101/2024.12.25.630074 
